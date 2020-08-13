@@ -1,0 +1,3 @@
+sudo mkdir /media/gld
+sudo mount -o discard,defaults /dev/sdb /media/gld/
+sudo chmod a+w /media/gld/
